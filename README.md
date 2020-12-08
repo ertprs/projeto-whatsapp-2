@@ -29,7 +29,7 @@
 </details>
 
 ### ATENÇÃO
-DESEJA RE-CARREGAR O SCRIPT? AMO MEU NOME / LINK CHANEL .... NÃO ALTERE A INFORMAÇÃO !!!
+DESEJA RE-CARREGAR O SCRIPT? AMO MEU NOME/LINK CHANEL .... NÃO ALTERE A INFORMAÇÃO !!!
 
 ## NOTA:>
 NÃO VENDE / COMPRE O SCRIPT, ESTE SCRIPT É 100% GRATUITO PARA OS USUÁRIOS DO TERMUX
@@ -37,7 +37,7 @@ NÃO VENDE / COMPRE O SCRIPT, ESTE SCRIPT É 100% GRATUITO PARA OS USUÁRIOS DO 
 
 ### FERRAMENTAS E MATERIAIS <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width = "29px">
 Prepare as ferramentas e materiais.
-`` bash
+```bash
 > intenção
 > 2 telefones celulares (1 para executar SC, 1 para ler o código QR sis)
 > rede de internet rápida, cota +
@@ -45,11 +45,11 @@ Prepare as ferramentas e materiais.
 > aplicativo whatsapp
 > aplicativo termux
 > café + cigarros; v
-``
+```
 
 ### COMO INSTALAR <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width = "29px">
 Este script foi modificado com meu próprio ID Aris187.
-`` bash
+``` bash
 > Se você não tem o APK Termux, baixe-o na Playstore
 > insira o apk termux e digite abaixo!
 > termux-setup-storage
@@ -59,11 +59,11 @@ Este script foi modificado com meu próprio ID Aris187.
 > cd AR15BOT
 > npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i && npm i got && node index js
 > Basta escanear o código qr yeee ... pronto
-``
+```
 
 ## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
-| AR15BOT      |                   Feature        |
+|   robo jefe   |                   Feature        |
 | :-----------: | :------------------------------: |
 |       ✅       | Sticker Creator                  |
 |       ✅       | Nulis                            |
@@ -103,13 +103,13 @@ Este script foi modificado com meu próprio ID Aris187.
 Ket: Aktiv 24 jam
 
 ## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Donasi 👾AR15BOT👾`](https://saweria.co/aris187id)
+* [`Doar 👾AR15BOT👾`](https://saweria.co/aris187id)
 
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
+* [`Youtube Admin`](https://www.youtube.com/channel/Mundodainternet)
+* [`Instagram Admin`](https://instagram.com/jeffersonla_/)
 * [`WhatsApp Admin `](https://wa.me/+5545998331383)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
