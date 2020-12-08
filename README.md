@@ -102,16 +102,16 @@ Este script foi modificado com meu próprio ID Aris187.
 
 Ket: Aktiv 24 jam
 
-## DONASI <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
-* [`Doar 👾AR15BOT👾`](https://saweria.co/aris187id)
+## DOAÇÃO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="29px">
+* [`Doar`](https://saweria.co/aris187id)
 
 
-## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
+## MIDIAS SOCIAS DO ADMIM <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://www.youtube.com/channel/Mundodainternet)
+* [`Youtube Admin`](https://www.youtube.com.br/Mundodainternet)
 * [`Instagram Admin`](https://instagram.com/jeffersonla_/)
 * [`WhatsApp Admin `](https://wa.me/+5545998331383)
-## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
+## OBRIGADO A <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
 
