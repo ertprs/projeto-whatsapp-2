@@ -28,38 +28,38 @@
  
 </details>
 
-### WARNING
-MAU RE-UPLOAD SCRIPT? KASIH NAMA/LINK CHANEL SAYA.... DILARANG UBAH INFO!!!
+### ATENÇÃO
+DESEJA RE-CARREGAR O SCRIPT? AMO MEU NOME / LINK CHANEL .... NÃO ALTERE A INFORMAÇÃO !!!
 
-## NOTE:> 
-SCRIPTNYA JANGAN DI JUAL/BELI KAN.. SCRIPT INI 100% GRATIS BUAT KALIAN PENGGUNA TERMUX
+## NOTA:>
+NÃO VENDE / COMPRE O SCRIPT, ESTE SCRIPT É 100% GRATUITO PARA OS USUÁRIOS DO TERMUX
 </div>
 
-### ALAT DAN BAHAN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="29px">
-Siapin alat dan bahannya.
-```bash
-> niat
-> 2 handphone (1 buat jalanin sc, 1 buat scan kode qr kak)
-> jaringan internet kenceng,kuota+
-> penyimpanan yang memadai
-> aplikasi whatsapp
-> aplikasi termux
-> kopi+rokok ;v
-```
+### FERRAMENTAS E MATERIAIS <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width = "29px">
+Prepare as ferramentas e materiais.
+`` bash
+> intenção
+> 2 telefones celulares (1 para executar SC, 1 para ler o código QR sis)
+> rede de internet rápida, cota +
+> armazenamento adequado
+> aplicativo whatsapp
+> aplicativo termux
+> café + cigarros; v
+``
 
-### CARA INSTALLNYA  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="29px">
-Script ini di modifikasi sama saya sendiri Aris187 ID.
-```bash
-> kalo lu belum punya apk termux, download di playstore
-> masuk ke apk termux lalu ketik dibawah ini!
+### COMO INSTALAR <img src = "https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width = "29px">
+Este script foi modificado com meu próprio ID Aris187.
+`` bash
+> Se você não tem o APK Termux, baixe-o na Playstore
+> insira o apk termux e digite abaixo!
 > termux-setup-storage
 > pkg install git && pkg install tesseract && pkg install wget && pkg install ffmpeg && pkg install nodejs
-> apt update && apt upgrade
+> atualização do apt && atualização do apt
 > git clone https://github.com/A187ID/AR15BOT
 > cd AR15BOT
-> npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i  && npm i got && node index js
-> Tinggal scan kode qr yeee...done
-```
+> npm i -g cwebp && npm i node-tesseract-ocr && npm i -g ytdl && npm i && npm i got && node index js
+> Basta escanear o código qr yeee ... pronto
+``
 
 ## FEATURES  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="29px">
 
@@ -110,7 +110,7 @@ Ket: Aktiv 24 jam
 
 * [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
 * [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+* [`WhatsApp Admin `](https://wa.me/+5545998331383)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
 
 * [`fdciabdul`](https://github.com/fdciabdul/termux-whatsapp-bot)
