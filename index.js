@@ -1,20 +1,20 @@
 /*
-* JANGAN UBAH-UBAH INFO!!!
-* "JANGAN MODAL NAMA DOANG BRO!!!"
-* SCRIPT BY ARIS187 ID
-* JANGAN MODAL NAMA DOANG BOSQ
-* HARGAILAH YY MEMBUAT SCRIPT INI BOSQ
-* JANGAN UBAH-UBAH INFO!!!
+* NÃO ALTERE A INFORMAÇÃO !!!
+* "NÃO MAIÚSCULA DOANG BRO !!!"
+* SCRIPT POR ARIS187 ID
+* NÃO MAIÚSCULAS DE BOSQ DOANG
+* PREÇO YY FAÇA ESTE SCRIPT BOSQ
+* NÃO ALTERE A INFORMAÇÃO !!!
 * ARIS187 ID
-* BOLEH UBAH TAPI KECUALI INFO!!!
+* MUDE, MAS EXCETO AS INFORMAÇÕES !!!
 */
-const A187 = '👾AR15BOT👾'; // JANGAN UBAH-UBAH INFO!!!
-const instagram = 'https://instagram.com/_sadboy.ig'; // JANGAN UBAH-UBAH INFO!!!
-const nomer = 'Wa.me/+6285722553839'; // JANGAN UBAH-UBAH INFO!!!
-const aktif = 'Tergantung jaringan'; // JANGAN UBAH-UBAH INFO!!!
-const groupwhatsapp = 'https://chat.whatsapp.com/GU6NsgZvfgw37vrjIxUPhP'; // JANGAN UBAH-UBAH INFO!!!
-const youtube = 'https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg'; // JANGAN UBAH-UBAH INFO!!!
-//A187ID
+const A187 = '👾AR15BOT👾'; // NÃO ALTERE A INFORMAÇÃO !!!
+const instagram = 'https://instagram.com/jeffersonla_/'; // NÃO ALTERE A INFORMAÇÃO !!!
+const nomer = 'Wa.me/+5545998331383'; // NÃO ALTERE A INFORMAÇÃO !!!
+const aktif = 'Jefferson luchetta alionco'; // NÃO ALTERE A INFORMAÇÃO !!!
+const groupwhatsapp = 'https://chat.whatsapp.com/1nSOPC5oRJgEhhCRQXTQLH'; // NÃO ALTERE A INFORMAÇÃO !!!
+const youtube = 'https://www.youtube.com/channel/mundodainternet'; // NÃO ALTERE A INFORMAÇÃO !!!
+//Jeferrson luchetta
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
 const cheerio = require("cheerio");
@@ -33,7 +33,8 @@ const aris2 = require("./lib/aris2.js");
 const aris3 = require("./lib/aris3.js");
 const aris4 = require("./lib/aris4.js");
 const readTextInImage = require('./lib/ocr')
-//A187ID
+
+
 const
 {
    WAConnection,
@@ -64,7 +65,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] AR15BOT ready scan now!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] Robo jefferson pronto agora.`);
 });
 
 conn.on('credentials-updated', () =>
@@ -953,7 +954,7 @@ conn.sendMessage(id, ' _🗣️Thanks Telah Menggunakan BOT *👾AR15BOT👾* , 
    {
       let caption = imageMessage.caption.toLocaleLowerCase()
       const buffer = await conn.downloadMediaMessage(m) // to decrypt & use as a buffer
-      if (caption == '!sticker')
+      if (caption == '#sticker')
       {
          const stiker = await conn.downloadAndSaveMediaMessage(m) // to decrypt & save to file
 
